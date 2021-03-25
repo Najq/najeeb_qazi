@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Najeeb Qazi"
+
 theme = "anatole"
 summarylength = 10
 enableEmoji = true

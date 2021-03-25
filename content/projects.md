@@ -15,12 +15,12 @@ tags:
 ## Demand Forecasting for Retailers using Weather 
  - Built a Demand Forecasting Platform for Fashion retailers which included weather as one of the factors 
  - Used Time Series Analysis techniques such as ARIMA and tools such as FbProphet to understand seasonality, trends and patterns in the data
- - Link 
+ - [Link](https://github.com/inderpartap/trendcast) 
 
 ## Fake News Detections
 - Developed a Bi-directional LSTM model to classify Fake news using a combination of feature vectors obtained from the title and the body of the news article. Trained the model using distributed deep learning on Spark
 - Scraped various satirical and real news website using a crawler built on scrapy, cleaned and processed the data using NLTK. Achieved 0.611 as the Precision and 0.69 as the Recall value
-- Link - 
+- [Link](https://github.com/inderpartap/fact.err)
 
 
 ## Generalized Zero Shot Object Detection

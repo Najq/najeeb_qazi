@@ -4,7 +4,12 @@ author = "Najeeb Qazi"
 
 ### Welcome to my room on the internet!
 
-Natively a software developer working as a Data Scientist @ Statistics Canada (Ottawa).
+Hello there!<span class="nowrap"><span class="emojify">:wave:</span>
+
+I'm Najeeb if you missed my name by any chance. I love technology and everything related to it.
+
+Enjoy building websites among other things, and currently working on cool Machine learning and Data Scienc-y stuff @ Statistics Canada!
+
 
 {{< figure src="/images/wow_contemplate.jpg" alt="image" height="400" width="300"
  caption="me in the wild" class="big" >}}

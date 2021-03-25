@@ -9,7 +9,7 @@ tags:
 ---
 
 This is my small corner on this vast Internet, I suppose. 
-### Some helpful life philosohpies that I believe in
+### Some helpful life philosophies that I believe in
 1. [Life Long learning](https://helpfulprofessor.com/lifelong-learning/)
 2. [Mindfulness](https://blog.mindfulness.com/meditation/benefits-of-mindfulness)
 3. [Productivity and meaningful lives](https://positivepsychology.com/live-meaningful-life/)

@@ -11,10 +11,8 @@ Helloo!
 I'm currently working as a Data Scientist at Statistics Canada. At heart, I love building end-end products and believe in life long learning. 
 I did my master's in Computer science from Simon Fraser University with a focus in Big Data and ML.
 
-In my free-time, I enjoy hiking, biking and reading  fiction and non-fiction books.
+In an attempt to lead a balanced life - I enjoy hiking, biking and reading fiction and non-fiction books.
 
-Feel free to reach out to me on LinkedIn or my email!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/najeeb-qazi/) or my [e-mail](mailto:najeebq@gmail.com)!
 
-<links to email>
-
-Learn more about my life philosophy here [Philosophy]().
+Learn more about my life philosophy here [Philosophy](/philosophy).
