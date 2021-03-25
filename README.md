@@ -1,2 +1,3 @@
 # najeeb_qazi
-website using hugo
+
+Personal website built using Hugo. The site is live on <https://najeeb-qazi.onrender.com/>

@@ -26,6 +26,6 @@ tags:
 ## Generalized Zero Shot Object Detection
 - Developed a model that detects objects not seen in the training set, using Generative Adversarial Network and Variational Encoders
 - The model consists of a Generator, which generates visual features given class embeddings and a regressor that maps each visual feature back to its corresponding class embedding
-- Link
+- [Link](https://mlreport.s3.amazonaws.com/Ml_report.pdf)
 
 
