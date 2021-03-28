@@ -19,6 +19,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
+gtagId = "G-6G9036VPCR"
 title = "Najeeb Qazi"
 author = "Najeeb Qazi"
 #copyright = "2020-2021"
