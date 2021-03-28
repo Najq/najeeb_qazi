@@ -10,6 +10,7 @@ tags:
 ## Question Answering Tasks Using BERT models
  - Experimented with different BERT based models such as DistilBERT, ELECTRA and RoBERTa on SQuaD 2.0 dataset (Stanford Question and Answering) to find the model that worked best with minimal computational resources.
  - Developed a web application that serves the best performing model to answer user-fed questions based on a context.
+ - [Link](https://github.com/Najq/QA_NLP_app)
 
 
 ## Demand Forecasting for Retailers using Weather 
