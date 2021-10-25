@@ -8,7 +8,7 @@ Hello there!<span class="nowrap"><span class="emojify">:wave:</span>
 
 I'm Najeeb if you missed my name by any chance. I love technology and everything related to it.
 
-Enjoy building websites among other things, and currently working on cool Machine learning and Data Scienc-y stuff @ Statistics Canada!
+Enjoy building websites among other things, and currently working on building cool stuff @ Alida! Previously worked at Statistics Canada (Did some Data Sciency stuff).
 
 
 {{< figure src="/images/wow_contemplate.jpg" alt="image" height="400" width="300"

@@ -8,7 +8,7 @@ author = "Najeeb Qazi"
 
 Helloo!
 
-I'm currently working as a Data Scientist at Statistics Canada. At heart, I love building end-end products and believe in life long learning. 
+I'm currently working as a Software Engineer at Alida. At heart, I love building end-end products and believe in life long learning. 
 I did my master's in Computer science from Simon Fraser University with a focus in Big Data and ML.
 
 In an attempt to lead a balanced life - I enjoy hiking, biking and reading fiction and non-fiction books.
